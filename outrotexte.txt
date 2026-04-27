@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 tem aqui um teste  :) com outro teste em cima xD 
 quem arrisca não petisca
+
 =======
 <<<<<<< HEAD
 Roses are red, I like Darth Vader, Poetry’s hard, Refrigerator
