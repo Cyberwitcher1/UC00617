@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 tem aqui um teste  :) com outro teste em cima xD 
 quem arrisca não petisca
+=======
+<<<<<<< HEAD
+Roses are red, I like Darth Vader, Poetry’s hard, Refrigerator
+=======
+tem aqui um teste  :) com outro teste em cima xD 
+>>>>>>> c7a33e10fae3625fcd8352270e3b7c2474d4e0e1
+>>>>>>> 60080aaf52400dee601d6e13471203780b0a89a8
