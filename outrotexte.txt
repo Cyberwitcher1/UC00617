@@ -1,7 +1,7 @@
 fazer uma alteração
 
 <<<<<<< HEAD
-tem aqui um teste  :) com outro teste em cima xD 
+tem aqui um teste  :) com outro teste em cima  
 quem arrisca não petisca
 
 =======
