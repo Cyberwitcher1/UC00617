@@ -1,5 +1,11 @@
+fazer uma alteração
+
+<<<<<<< HEAD
 <<<<<<< HEAD
 tem aqui um teste  :) com outro teste
+=======
+tem aqui um teste  :) com outro teste em cima  
+>>>>>>> secondary-branch
 quem arrisca não petisca
 
 =======
